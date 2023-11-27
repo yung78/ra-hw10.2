@@ -1,0 +1,21 @@
+.btn_del {
+  height: 20px;
+  width: 30px;
+  margin-left: 10px;
+
+  background: no-repeat center/50% url('../../../public/delete.svg');
+}
+
+.btn_edit {
+  height: 20px;
+  width: 30px;
+  margin-left: 10px;
+
+  background: no-repeat center/50% url('../../../public/edit.svg');
+}
+
+li {
+  margin-top: 10px;
+  
+  font-size: 16px;
+}

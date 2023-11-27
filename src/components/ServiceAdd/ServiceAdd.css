@@ -1,0 +1,19 @@
+.form {
+  margin: 20px;
+}
+
+.input {
+  height: 25px;
+  margin-left: 10px;
+
+  border: solid 1px #888;
+  border-radius: 5px;
+}
+
+.btn {
+  height: 29px;
+  margin-left: 10px;
+
+  border: solid 1px #888;
+  border-radius: 5px;
+}
